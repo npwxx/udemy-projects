@@ -1,0 +1,24 @@
+/* ****Tag Selectors**** */
+h1 {
+  color: Red;
+  font-size: 50px;
+}
+img:hover {
+  background-color: gold;
+}
+
+/* ****Class Selectors**** */
+/* Class can be used multiple times in a page */
+/* Used to group related elements that are going to behave or have a similar style */
+.bacon {
+  background-color: green;
+}
+.broccoli {
+  background-color: red;
+}
+
+/* ***ID Selectors**** */
+/* ID can only be in 1 place on a page, only 1 ID can be used per element */
+#heading {
+  color: blue;
+}
